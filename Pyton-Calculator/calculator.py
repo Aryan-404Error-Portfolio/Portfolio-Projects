@@ -1,4 +1,4 @@
-# Simple Calculator in Python
+Calculator Progam:)
 
 def add(x, y):
     return x + y
