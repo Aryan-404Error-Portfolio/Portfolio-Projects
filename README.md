@@ -25,7 +25,7 @@ This repo is a collection of my projects — from small utilities to real-world 
 ---
 
 ## 📈 GitHub Stats
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan-404Error-Portfolio&show_icons=true&theme=radical?v=1)
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan-404Error-Portfolio&show_icons=true&theme=radical&v=2)
 
 ---
 
