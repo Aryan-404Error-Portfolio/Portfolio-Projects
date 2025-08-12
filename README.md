@@ -1,28 +1,42 @@
-# 💻 Aryan Gupta's Portfolio
+# 🚀 Aryan's Portfolio
 
 Welcome to my portfolio repository!  
-Here, I showcase my projects, skills, and journey as a B.Tech CSE student.  
-Open to **internships, jobs, and collaborations**.
+I’m **Aryan Gupta**, a final-year **B.Tech CSE** student passionate about **Java, Python, and C programming**.  
+This repo is a collection of my projects — from small utilities to real-world applications — showcasing my learning journey and skills.
 
 ---
 
+## 🛠 Tech Stack
+- **Languages:** Java, Python, C
+- **Web:** HTML, CSS, JavaScript
+- **Tools & Platforms:** Git, GitHub, VS Code
+
+---
+
+## 📂 Projects in this Repo
+| Project Name | Description | Tech Used |
+|--------------|-------------|-----------|
+| **Calculator App** | A simple calculator for basic arithmetic operations. | Python |
+| **To-Do List App** | Task management app to track daily tasks. | JavaScript, HTML, CSS |
+| **Student Management System** | Manage student records efficiently. | Java, MySQL |
+
+*(More projects will be added as I progress.)*
+
+---
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryan-404Error&show_icons=true&theme=radical&v=2)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Aryan-404Error&theme=radical&cache_seconds=1800)
 
----
-
-## 🛠 Skills
-- **Languages:** Java, Python, C
-- **Tools & Platforms:** Git, GitHub, VS Code
-- **Other Interests:** Problem Solving, Open Source Collaboration
 
 ---
 
-## 📫 Contact Me
+## 🤝 Open to
+- Internships  
+- Job Opportunities  
+- Collaboration on interesting projects
+
+📫 **Contact Me:**  
 - **Email:** aryankumargupta619@gmail.com  
 - **LinkedIn:** [www.linkedin.com/in/aryan-gupta-2aa697291](https://www.linkedin.com/in/aryan-gupta-2aa697291)
-
----
