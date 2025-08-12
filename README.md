@@ -31,7 +31,7 @@ This repo is a collection of my projects — from small utilities to real-world 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-404Error&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-404Error-Portfolio&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 
