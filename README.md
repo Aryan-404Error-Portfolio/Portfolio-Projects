@@ -1,39 +1,28 @@
-# 🚀 Aryan's Portfolio
+# 💻 Aryan Gupta's Portfolio
 
 Welcome to my portfolio repository!  
-I’m **Aryan Gupta**, a final-year **B.Tech CSE** student passionate about **Java, Python, and C programming**.  
-This repo is a collection of my projects — from small utilities to real-world applications — showcasing my learning journey and skills.
+Here, I showcase my projects, skills, and journey as a B.Tech CSE student.  
+Open to **internships, jobs, and collaborations**.
 
 ---
 
-## 🛠 Tech Stack
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryan-404Error&show_icons=true&theme=radical&v=2)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Aryan-404Error&theme=radical&cache_seconds=1800)
+
+---
+
+## 🛠 Skills
 - **Languages:** Java, Python, C
-- **Web:** HTML, CSS, JavaScript
 - **Tools & Platforms:** Git, GitHub, VS Code
+- **Other Interests:** Problem Solving, Open Source Collaboration
 
 ---
 
-## 📂 Projects in this Repo
-| Project Name | Description | Tech Used |
-|--------------|-------------|-----------|
-| **Calculator App** | A simple calculator for basic arithmetic operations. | Python |
-| **To-Do List App** | Task management app to track daily tasks. | JavaScript, HTML, CSS |
-| **Student Management System** | Manage student records efficiently. | Java, MySQL |
-
-*(More projects will be added as I progress.)*
-
----
-
-## 📈 GitHub Stats
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan-404Error-Portfolio&show_icons=true&theme=radical&v=2)
-
----
-
-## 🤝 Open to
-- Internships  
-- Job Opportunities  
-- Collaboration on interesting projects
-
-📫 **Contact Me:**  
+## 📫 Contact Me
 - **Email:** aryankumargupta619@gmail.com  
 - **LinkedIn:** [www.linkedin.com/in/aryan-gupta-2aa697291](https://www.linkedin.com/in/aryan-gupta-2aa697291)
+
+---
