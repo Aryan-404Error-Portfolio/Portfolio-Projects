@@ -27,11 +27,11 @@ This repo is a collection of my projects — from small utilities to real-world 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aryan-404Error-Portfolio&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Aryan-404Error&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Aryan-404Error-Portfolio&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-404Error-Portfolio&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-404Error-Portfolio&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,javascript"/>
 </p>
 
 
